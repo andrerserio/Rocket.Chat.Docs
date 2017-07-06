@@ -26,6 +26,7 @@ Permission changes are immediate and transparent.  Users do not need to logout, 
 | bulk-create-c |
 | bulk-register-user |
 | create-c | Permission to create a public channel.
+| create-d | PPermission to send message directly to a user.
 | create-p | Permission to create a private group.
 | delete-c |
 | delete-d |
